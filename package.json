@@ -1,6 +1,6 @@
 {
-  "name": "wordcounter",
-  "version": "1.0.0",
+  "name": "gen123_wordcounter",
+  "version": "1.0.2",
   "main": "index.js",
   "type": "module",
   "bin": "main.js",
